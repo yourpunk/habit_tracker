@@ -7,7 +7,7 @@
 
 ## Preview
 
-![habit-tracker preview](docs/preview.ipg)
+<img src="docs/preview.jpg" alt="habit-tracker preview" width="600">
 
 ## 🫧 Features
 - ✅ Add, remove, and check off habits in seconds
